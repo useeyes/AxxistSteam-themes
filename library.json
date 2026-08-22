@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "id": "steam-dark",
+      "name": "Steam Dark",
+      "author": "AxxistSteam",
+      "description": "Standard dark theme.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/steam-dark.theme",
+      "tags": ["Standard"]
+    },
+    {
+      "id": "hardcore",
+      "name": "Hardcore",
+      "author": "AxxistSteam",
+      "description": "Focus mode for real gamers. Blackest blacks.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/hardcore.theme",
+      "tags": ["Standard"]
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "author": "AxxistSteam",
+      "description": "Like staring into the sun.",
+      "version": 1,
+      "colorScheme": "light",
+      "file": "themes/white.theme",
+      "tags": ["Standard"]
+    },
+    {
+      "id": "ocean",
+      "name": "Deep Ocean",
+      "author": "Community",
+      "description": "A calm, deep blue aesthetic.",
+      "version": 2,
+      "colorScheme": "dark",
+      "file": "themes/ocean.theme",
+      "tags": ["Standard", "Blue"]
+    }
+  ]
+}
