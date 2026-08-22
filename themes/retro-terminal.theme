@@ -1,0 +1,27 @@
+{
+  "id": "retro-terminal",
+  "name": "Retro Terminal",
+  "author": "AxxistSteam",
+  "description": "Phosphor-green CRT vibes for the terminal generation.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Retro",
+    "Gaming"
+  ],
+  "tokens": {
+    "background": "oklch(0.15 0.015 150)",
+    "fieldBackground": "oklch(0.18 0.02 150)",
+    "fieldBorder": "oklch(0.3 0.04 150)",
+    "surface": "oklch(0.20 0.02 150)",
+    "overlay": "oklch(0.18 0.02 150)",
+    "default": "oklch(0.25 0.025 150)",
+    "surfaceSecondary": "oklch(0.25 0.025 150)",
+    "separator": "oklch(0.23 0.02 150)",
+    "border": "oklch(0.29 0.03 150)",
+    "surfaceTertiary": "oklch(0.34 0.04 150)",
+    "scrollbarThumb": "oklch(0.34 0.04 150)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.78 0.17 145)"
+  }
+}

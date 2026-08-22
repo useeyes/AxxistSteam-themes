@@ -8,7 +8,11 @@
       "version": 1,
       "colorScheme": "dark",
       "file": "themes/steam-dark.theme",
-      "tags": ["Standard"]
+      "tags": [
+        "Standard",
+        "Axxist"
+      ],
+      "featured": false
     },
     {
       "id": "hardcore",
@@ -18,7 +22,11 @@
       "version": 1,
       "colorScheme": "dark",
       "file": "themes/hardcore.theme",
-      "tags": ["Standard"]
+      "tags": [
+        "Standard",
+        "Gaming"
+      ],
+      "featured": false
     },
     {
       "id": "white",
@@ -28,17 +36,94 @@
       "version": 1,
       "colorScheme": "light",
       "file": "themes/white.theme",
-      "tags": ["Standard"]
+      "tags": [
+        "Standard"
+      ],
+      "featured": false
     },
     {
       "id": "ocean",
       "name": "Deep Ocean",
-      "author": "Community",
+      "author": "AxxistSteam",
       "description": "A calm, deep blue aesthetic.",
       "version": 2,
       "colorScheme": "dark",
       "file": "themes/ocean.theme",
-      "tags": ["Standard", "Blue"]
+      "tags": [
+        "Standard"
+      ],
+      "featured": false
+    },
+    {
+      "id": "axxist-neon",
+      "name": "Axxist Neon",
+      "author": "AxxistSteam",
+      "description": "Neon-drenched cyberpunk surfaces with a hot magenta glow - built for late-night sessions.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/axxist-neon.theme",
+      "tags": [
+        "Axxist",
+        "Gaming",
+        "Cyberpunk"
+      ],
+      "featured": true
+    },
+    {
+      "id": "retro-terminal",
+      "name": "Retro Terminal",
+      "author": "AxxistSteam",
+      "description": "Phosphor-green CRT vibes for the terminal generation.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/retro-terminal.theme",
+      "tags": [
+        "Retro",
+        "Gaming"
+      ],
+      "featured": false
+    },
+    {
+      "id": "apex-racing",
+      "name": "Apex Racing",
+      "author": "AxxistSteam",
+      "description": "Carbon-black surfaces with a racing-red accent - pure pit-lane energy.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/apex-racing.theme",
+      "tags": [
+        "Racing",
+        "Gaming",
+        "Axxist"
+      ],
+      "featured": false
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "author": "AxxistSteam",
+      "description": "Soft cherry-blossom light theme with a deep pink accent.",
+      "version": 1,
+      "colorScheme": "light",
+      "file": "themes/sakura.theme",
+      "tags": [
+        "Anime"
+      ],
+      "featured": true
+    },
+    {
+      "id": "military-ops",
+      "name": "Military Ops",
+      "author": "AxxistSteam",
+      "description": "Olive drab and desert tan - tactical, understated, always ready.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/military-ops.theme",
+      "tags": [
+        "Military",
+        "Gaming"
+      ],
+      "featured": false
     }
   ]
 }

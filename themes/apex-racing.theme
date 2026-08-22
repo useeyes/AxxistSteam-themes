@@ -1,0 +1,28 @@
+{
+  "id": "apex-racing",
+  "name": "Apex Racing",
+  "author": "AxxistSteam",
+  "description": "Carbon-black surfaces with a racing-red accent - pure pit-lane energy.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Racing",
+    "Gaming",
+    "Axxist"
+  ],
+  "tokens": {
+    "background": "oklch(0.16 0.005 260)",
+    "fieldBackground": "oklch(0.19 0.006 260)",
+    "fieldBorder": "oklch(0.31 0.008 260)",
+    "surface": "oklch(0.21 0.006 260)",
+    "overlay": "oklch(0.19 0.006 260)",
+    "default": "oklch(0.26 0.007 260)",
+    "surfaceSecondary": "oklch(0.26 0.007 260)",
+    "separator": "oklch(0.24 0.006 260)",
+    "border": "oklch(0.30 0.008 260)",
+    "surfaceTertiary": "oklch(0.35 0.01 260)",
+    "scrollbarThumb": "oklch(0.35 0.01 260)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.62 0.23 27)"
+  }
+}

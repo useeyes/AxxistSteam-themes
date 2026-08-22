@@ -1,0 +1,28 @@
+{
+  "id": "axxist-neon",
+  "name": "Axxist Neon",
+  "author": "AxxistSteam",
+  "description": "Neon-drenched cyberpunk surfaces with a hot magenta glow - built for late-night sessions.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Axxist",
+    "Gaming",
+    "Cyberpunk"
+  ],
+  "tokens": {
+    "background": "oklch(0.14 0.02 300)",
+    "fieldBackground": "oklch(0.17 0.025 300)",
+    "fieldBorder": "oklch(0.32 0.05 300)",
+    "surface": "oklch(0.19 0.03 300)",
+    "overlay": "oklch(0.17 0.025 300)",
+    "default": "oklch(0.24 0.035 300)",
+    "surfaceSecondary": "oklch(0.24 0.035 300)",
+    "separator": "oklch(0.22 0.03 300)",
+    "border": "oklch(0.28 0.04 300)",
+    "surfaceTertiary": "oklch(0.33 0.045 300)",
+    "scrollbarThumb": "oklch(0.33 0.045 300)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.72 0.19 330)"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sakura",
+  "name": "Sakura",
+  "author": "AxxistSteam",
+  "description": "Soft cherry-blossom light theme with a deep pink accent.",
+  "version": 1,
+  "colorScheme": "light",
+  "tags": [
+    "Anime"
+  ],
+  "tokens": {
+    "background": "oklch(0.96 0.015 340)",
+    "fieldBackground": "oklch(1 0 0)",
+    "fieldBorder": "oklch(0.86 0.03 340)",
+    "surface": "oklch(1 0.005 340)",
+    "overlay": "oklch(1 0.005 340)",
+    "default": "oklch(0.93 0.02 340)",
+    "surfaceSecondary": "oklch(0.93 0.02 340)",
+    "separator": "oklch(0.90 0.025 340)",
+    "border": "oklch(0.87 0.03 340)",
+    "surfaceTertiary": "oklch(0.84 0.035 340)",
+    "scrollbarThumb": "oklch(0.84 0.035 340)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.62 0.19 350)"
+  }
+}

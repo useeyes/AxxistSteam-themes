@@ -1,0 +1,27 @@
+{
+  "id": "military-ops",
+  "name": "Military Ops",
+  "author": "AxxistSteam",
+  "description": "Olive drab and desert tan - tactical, understated, always ready.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Military",
+    "Gaming"
+  ],
+  "tokens": {
+    "background": "oklch(0.18 0.02 110)",
+    "fieldBackground": "oklch(0.21 0.022 110)",
+    "fieldBorder": "oklch(0.34 0.03 110)",
+    "surface": "oklch(0.23 0.024 110)",
+    "overlay": "oklch(0.21 0.022 110)",
+    "default": "oklch(0.28 0.026 110)",
+    "surfaceSecondary": "oklch(0.28 0.026 110)",
+    "separator": "oklch(0.26 0.024 110)",
+    "border": "oklch(0.31 0.028 110)",
+    "surfaceTertiary": "oklch(0.36 0.03 110)",
+    "scrollbarThumb": "oklch(0.36 0.03 110)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.72 0.15 95)"
+  }
+}
