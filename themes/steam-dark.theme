@@ -1,0 +1,23 @@
+{
+  "id": "steam-dark",
+  "name": "Steam Dark",
+  "author": "AxxistSteam",
+  "description": "Standard dark theme.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tokens": {
+    "background": "oklch(0.13 0.006 253)",
+    "fieldBackground": "oklch(0.17 0.006 253)",
+    "fieldBorder": "oklch(0.3 0.008 253)",
+    "surface": "oklch(0.18 0.006 253)",
+    "overlay": "oklch(0.16 0.006 253)",
+    "default": "oklch(0.23 0.008 253)",
+    "surfaceSecondary": "oklch(0.23 0.008 253)",
+    "separator": "oklch(0.21 0.006 253)",
+    "border": "oklch(0.26 0.008 253)",
+    "surfaceTertiary": "oklch(0.3 0.008 253)",
+    "scrollbarThumb": "oklch(0.3 0.008 253)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.6626 0.1876 285.27)"
+  }
+}

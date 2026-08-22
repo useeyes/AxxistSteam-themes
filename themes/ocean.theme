@@ -1,0 +1,23 @@
+{
+  "id": "ocean",
+  "name": "Deep Ocean",
+  "author": "Community",
+  "description": "A calm, deep blue aesthetic.",
+  "version": 2,
+  "colorScheme": "dark",
+  "tokens": {
+    "background": "oklch(0.20 0.05 240)",
+    "fieldBackground": "oklch(0.25 0.06 240)",
+    "fieldBorder": "oklch(0.35 0.08 240)",
+    "surface": "oklch(0.23 0.06 240)",
+    "overlay": "oklch(0.20 0.06 240)",
+    "default": "oklch(0.30 0.07 240)",
+    "surfaceSecondary": "oklch(0.28 0.07 240)",
+    "separator": "oklch(0.25 0.06 240)",
+    "border": "oklch(0.32 0.07 240)",
+    "surfaceTertiary": "oklch(0.35 0.08 240)",
+    "scrollbarThumb": "oklch(0.35 0.08 240)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.65 0.15 220)"
+  }
+}

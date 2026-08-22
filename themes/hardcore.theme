@@ -1,0 +1,23 @@
+{
+  "id": "hardcore",
+  "name": "Hardcore",
+  "author": "AxxistSteam",
+  "description": "Focus mode for real gamers. Blackest blacks.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tokens": {
+    "background": "oklch(0.13 0.006 285.89)",
+    "fieldBackground": "oklch(0.17 0.006 285.89)",
+    "fieldBorder": "oklch(0.3 0.008 285.89)",
+    "surface": "oklch(0.18 0.006 285.89)",
+    "overlay": "oklch(0.16 0.006 285.89)",
+    "default": "oklch(0.23 0.008 285.89)",
+    "surfaceSecondary": "oklch(0.23 0.008 285.89)",
+    "separator": "oklch(0.21 0.006 285.89)",
+    "border": "oklch(0.26 0.008 285.89)",
+    "surfaceTertiary": "oklch(0.3 0.008 285.89)",
+    "scrollbarThumb": "oklch(0.3 0.008 285.89)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.6 0.24 296)"
+  }
+}

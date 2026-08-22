@@ -1,0 +1,23 @@
+{
+  "id": "white",
+  "name": "White",
+  "author": "AxxistSteam",
+  "description": "Like staring into the sun.",
+  "version": 1,
+  "colorScheme": "light",
+  "tokens": {
+    "background": "oklch(0.97 0.002 285.89)",
+    "fieldBackground": "oklch(1 0 0)",
+    "fieldBorder": "oklch(0.84 0.004 285.89)",
+    "surface": "oklch(1 0 0)",
+    "overlay": "oklch(1 0 0)",
+    "default": "oklch(0.94 0.002 285.89)",
+    "surfaceSecondary": "oklch(0.94 0.002 285.89)",
+    "separator": "oklch(0.91 0.003 285.89)",
+    "border": "oklch(0.89 0.003 285.89)",
+    "surfaceTertiary": "oklch(0.84 0.004 285.89)",
+    "scrollbarThumb": "oklch(0.84 0.004 285.89)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.5490 0.2533 277.72)"
+  }
+}
