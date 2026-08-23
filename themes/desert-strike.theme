@@ -1,0 +1,28 @@
+{
+  "id": "desert-strike",
+  "name": "Desert Strike",
+  "author": "AxxistSteam",
+  "description": "Sun-bleached sand tones, desert camo texture and a burnt-orange strike accent.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Military"
+  ],
+  "featured": false,
+  "pattern": "camo-desert",
+  "tokens": {
+    "background": "oklch(0.21 0.03 85)",
+    "fieldBackground": "oklch(0.24 0.03 85)",
+    "fieldBorder": "oklch(0.4 0.03 85)",
+    "surface": "oklch(0.28 0.03 85)",
+    "overlay": "oklch(0.28 0.03 85)",
+    "default": "oklch(0.33 0.03 85)",
+    "surfaceSecondary": "oklch(0.33 0.03 85)",
+    "separator": "oklch(0.31 0.03 85)",
+    "border": "oklch(0.36 0.03 85)",
+    "surfaceTertiary": "oklch(0.4 0.03 85)",
+    "scrollbarThumb": "oklch(0.4 0.03 85)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.76 0.13 75)"
+  }
+}

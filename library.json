@@ -124,6 +124,211 @@
         "Gaming"
       ],
       "featured": false
+    },
+    {
+      "id": "neon-city-2077",
+      "name": "Neon City 2077",
+      "author": "AxxistSteam",
+      "description": "Chrome-dark surfaces under a taxi-yellow glow - Night City UI with circuit traces, holographic hover sweeps and Rajdhani's squared techno letterforms baked in.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/neon-city-2077.theme",
+      "tags": [
+        "Axxist",
+        "Gaming",
+        "Cyberpunk"
+      ],
+      "featured": true,
+      "font": "rajdhani",
+      "fontLocked": true,
+      "effects": [
+        "holo"
+      ],
+      "pattern": "circuits"
+    },
+    {
+      "id": "woodland-camo",
+      "name": "Woodland Camo",
+      "author": "AxxistSteam",
+      "description": "Deep forest greens with a subtle woodland camouflage print and an olive accent.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/woodland-camo.theme",
+      "tags": [
+        "Military",
+        "Gaming"
+      ],
+      "featured": false,
+      "pattern": "camo-woodland"
+    },
+    {
+      "id": "desert-strike",
+      "name": "Desert Strike",
+      "author": "AxxistSteam",
+      "description": "Sun-bleached sand tones, desert camo texture and a burnt-orange strike accent.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/desert-strike.theme",
+      "tags": [
+        "Military"
+      ],
+      "featured": false,
+      "pattern": "camo-desert"
+    },
+    {
+      "id": "urban-ops",
+      "name": "Urban Ops",
+      "author": "AxxistSteam",
+      "description": "Grey-man urban camouflage that works day and night - ships a proper light mode.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/urban-ops.theme",
+      "tags": [
+        "Military",
+        "Axxist"
+      ],
+      "featured": false,
+      "pattern": "camo-urban"
+    },
+    {
+      "id": "arctic-frost",
+      "name": "Arctic Frost",
+      "author": "AxxistSteam",
+      "description": "Winter-tundra light theme with frost-blue accents and snow-camo texture.",
+      "version": 1,
+      "colorScheme": "light",
+      "file": "themes/arctic-frost.theme",
+      "tags": [
+        "Military"
+      ],
+      "featured": false,
+      "pattern": "camo-urban"
+    },
+    {
+      "id": "night-recon",
+      "name": "Night Recon",
+      "author": "AxxistSteam",
+      "description": "Near-black stealth camo lit by night-vision green - behind-enemy-lines energy.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/night-recon.theme",
+      "tags": [
+        "Military",
+        "Gaming"
+      ],
+      "featured": false,
+      "pattern": "camo-night"
+    },
+    {
+      "id": "n64-classic",
+      "name": "N64 Classic",
+      "author": "AxxistSteam",
+      "description": "Cartridge-era plastic grey with Mario-red accents, chunky checker texture and Bungee's rounded 90s letterforms.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/n64-classic.theme",
+      "tags": [
+        "Retro",
+        "Gaming"
+      ],
+      "featured": true,
+      "font": "bungee",
+      "fontLocked": true,
+      "pattern": "checker64"
+    },
+    {
+      "id": "blade-360",
+      "name": "Blade 360",
+      "author": "AxxistSteam",
+      "description": "The blade-dashboard era: slate surfaces, signature Xbox-green glow and Michroma's wide tech type.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/blade-360.theme",
+      "tags": [
+        "Retro",
+        "Gaming"
+      ],
+      "featured": false,
+      "font": "michroma",
+      "fontLocked": true,
+      "pattern": "blades360"
+    },
+    {
+      "id": "crt-terminal",
+      "name": "CRT Terminal",
+      "author": "AxxistSteam",
+      "description": "Phosphor-green monochrome on a scanlined tube - VT323 bitmap type included.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/crt-terminal.theme",
+      "tags": [
+        "Retro",
+        "Cyberpunk"
+      ],
+      "featured": false,
+      "font": "vt323",
+      "fontLocked": true,
+      "pattern": "scanlines"
+    },
+    {
+      "id": "pixel-arcade",
+      "name": "Pixel Arcade",
+      "author": "AxxistSteam",
+      "description": "Coin-op cabinet purple with hot magenta neon and Press Start 2P bitmap type.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/pixel-arcade.theme",
+      "tags": [
+        "Retro",
+        "Gaming",
+        "Animated"
+      ],
+      "featured": false,
+      "font": "pressStart2p",
+      "fontLocked": true
+    },
+    {
+      "id": "sunset-drive",
+      "name": "Sunset Drive",
+      "author": "AxxistSteam",
+      "description": "Retrowave gradient dusk - purple horizons and a hot-pink sun for night drives.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/sunset-drive.theme",
+      "tags": [
+        "Racing",
+        "Retro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "deep-space",
+      "name": "Deep Space",
+      "author": "AxxistSteam",
+      "description": "Void-navy canvas scattered with stars, aurora-teal instrumentation.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/deep-space.theme",
+      "tags": [
+        "Axxist",
+        "Gaming"
+      ],
+      "featured": false,
+      "pattern": "stars"
+    },
+    {
+      "id": "golden-royal",
+      "name": "Golden Royal",
+      "author": "AxxistSteam",
+      "description": "Rich black lacquer with brushed-gold accents - premium tier aesthetics.",
+      "version": 1,
+      "colorScheme": "dark",
+      "file": "themes/golden-royal.theme",
+      "tags": [
+        "Axxist",
+        "Gaming"
+      ],
+      "featured": false
     }
   ]
 }

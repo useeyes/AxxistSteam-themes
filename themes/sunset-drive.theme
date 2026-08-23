@@ -1,0 +1,28 @@
+{
+  "id": "sunset-drive",
+  "name": "Sunset Drive",
+  "author": "AxxistSteam",
+  "description": "Retrowave gradient dusk - purple horizons and a hot-pink sun for night drives.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Racing",
+    "Retro"
+  ],
+  "featured": false,
+  "tokens": {
+    "background": "oklch(0.21 0.06 315)",
+    "fieldBackground": "oklch(0.24 0.06 315)",
+    "fieldBorder": "oklch(0.4 0.06 315)",
+    "surface": "oklch(0.28 0.06 315)",
+    "overlay": "oklch(0.28 0.06 315)",
+    "default": "oklch(0.33 0.06 315)",
+    "surfaceSecondary": "oklch(0.33 0.06 315)",
+    "separator": "oklch(0.31 0.06 315)",
+    "border": "oklch(0.36 0.06 315)",
+    "surfaceTertiary": "oklch(0.4 0.06 315)",
+    "scrollbarThumb": "oklch(0.4 0.06 315)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.72 0.22 350)"
+  }
+}

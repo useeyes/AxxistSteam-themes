@@ -1,0 +1,31 @@
+{
+  "id": "crt-terminal",
+  "name": "CRT Terminal",
+  "author": "AxxistSteam",
+  "description": "Phosphor-green monochrome on a scanlined tube - VT323 bitmap type included.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Retro",
+    "Cyberpunk"
+  ],
+  "featured": false,
+  "font": "vt323",
+  "fontLocked": true,
+  "pattern": "scanlines",
+  "tokens": {
+    "background": "oklch(0.21 0.004 160)",
+    "fieldBackground": "oklch(0.24 0.004 160)",
+    "fieldBorder": "oklch(0.4 0.004 160)",
+    "surface": "oklch(0.28 0.004 160)",
+    "overlay": "oklch(0.28 0.004 160)",
+    "default": "oklch(0.33 0.004 160)",
+    "surfaceSecondary": "oklch(0.33 0.004 160)",
+    "separator": "oklch(0.31 0.004 160)",
+    "border": "oklch(0.36 0.004 160)",
+    "surfaceTertiary": "oklch(0.4 0.004 160)",
+    "scrollbarThumb": "oklch(0.4 0.004 160)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.83 0.20 152)"
+  }
+}

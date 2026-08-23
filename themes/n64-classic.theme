@@ -1,0 +1,31 @@
+{
+  "id": "n64-classic",
+  "name": "N64 Classic",
+  "author": "AxxistSteam",
+  "description": "Cartridge-era plastic grey with Mario-red accents, chunky checker texture and Bungee's rounded 90s letterforms.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Retro",
+    "Gaming"
+  ],
+  "featured": false,
+  "font": "bungee",
+  "fontLocked": true,
+  "pattern": "checker64",
+  "tokens": {
+    "background": "oklch(0.21 0.006 260)",
+    "fieldBackground": "oklch(0.24 0.006 260)",
+    "fieldBorder": "oklch(0.4 0.006 260)",
+    "surface": "oklch(0.28 0.006 260)",
+    "overlay": "oklch(0.28 0.006 260)",
+    "default": "oklch(0.33 0.006 260)",
+    "surfaceSecondary": "oklch(0.33 0.006 260)",
+    "separator": "oklch(0.31 0.006 260)",
+    "border": "oklch(0.36 0.006 260)",
+    "surfaceTertiary": "oklch(0.4 0.006 260)",
+    "scrollbarThumb": "oklch(0.4 0.006 260)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.62 0.21 27)"
+  }
+}

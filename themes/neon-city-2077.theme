@@ -1,0 +1,50 @@
+{
+  "id": "neon-city-2077",
+  "name": "Neon City 2077",
+  "author": "AxxistSteam",
+  "description": "Chrome-dark surfaces under a taxi-yellow glow - Night City UI with circuit traces, holographic hover sweeps and Rajdhani's squared techno letterforms baked in.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Axxist",
+    "Gaming",
+    "Cyberpunk"
+  ],
+  "featured": true,
+  "font": "rajdhani",
+  "fontLocked": true,
+  "effects": [
+    "holo"
+  ],
+  "pattern": "circuits",
+  "tokens": {
+    "background": "oklch(0.21 0.01 250)",
+    "fieldBackground": "oklch(0.24 0.01 250)",
+    "fieldBorder": "oklch(0.4 0.01 250)",
+    "surface": "oklch(0.28 0.01 250)",
+    "overlay": "oklch(0.28 0.01 250)",
+    "default": "oklch(0.33 0.01 250)",
+    "surfaceSecondary": "oklch(0.33 0.01 250)",
+    "separator": "oklch(0.31 0.01 250)",
+    "border": "oklch(0.36 0.01 250)",
+    "surfaceTertiary": "oklch(0.4 0.01 250)",
+    "scrollbarThumb": "oklch(0.4 0.01 250)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.85 0.19 102)"
+  },
+  "tokensLight": {
+    "background": "oklch(0.96 0.008 250)",
+    "fieldBackground": "oklch(1 0 0)",
+    "fieldBorder": "oklch(0.84 0.008 250)",
+    "surface": "oklch(1 0 0)",
+    "overlay": "oklch(1 0 0)",
+    "default": "oklch(0.94 0.008 250)",
+    "surfaceSecondary": "oklch(0.94 0.008 250)",
+    "separator": "oklch(0.91 0.008 250)",
+    "border": "oklch(0.89 0.008 250)",
+    "surfaceTertiary": "oklch(0.84 0.008 250)",
+    "scrollbarThumb": "oklch(0.84 0.008 250)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.62 0.16 80)"
+  }
+}

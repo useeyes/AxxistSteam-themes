@@ -1,0 +1,28 @@
+{
+  "id": "golden-royal",
+  "name": "Golden Royal",
+  "author": "AxxistSteam",
+  "description": "Rich black lacquer with brushed-gold accents - premium tier aesthetics.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Axxist",
+    "Gaming"
+  ],
+  "featured": false,
+  "tokens": {
+    "background": "oklch(0.21 0.005 60)",
+    "fieldBackground": "oklch(0.24 0.005 60)",
+    "fieldBorder": "oklch(0.4 0.005 60)",
+    "surface": "oklch(0.28 0.005 60)",
+    "overlay": "oklch(0.28 0.005 60)",
+    "default": "oklch(0.33 0.005 60)",
+    "surfaceSecondary": "oklch(0.33 0.005 60)",
+    "separator": "oklch(0.31 0.005 60)",
+    "border": "oklch(0.36 0.005 60)",
+    "surfaceTertiary": "oklch(0.4 0.005 60)",
+    "scrollbarThumb": "oklch(0.4 0.005 60)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.80 0.15 90)"
+  }
+}

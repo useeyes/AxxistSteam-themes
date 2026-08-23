@@ -1,0 +1,28 @@
+{
+  "id": "arctic-frost",
+  "name": "Arctic Frost",
+  "author": "AxxistSteam",
+  "description": "Winter-tundra light theme with frost-blue accents and snow-camo texture.",
+  "version": 1,
+  "colorScheme": "light",
+  "tags": [
+    "Military"
+  ],
+  "featured": false,
+  "pattern": "camo-urban",
+  "tokens": {
+    "background": "oklch(0.96 0.012 240)",
+    "fieldBackground": "oklch(1 0 0)",
+    "fieldBorder": "oklch(0.84 0.012 240)",
+    "surface": "oklch(1 0 0)",
+    "overlay": "oklch(1 0 0)",
+    "default": "oklch(0.94 0.012 240)",
+    "surfaceSecondary": "oklch(0.94 0.012 240)",
+    "separator": "oklch(0.91 0.012 240)",
+    "border": "oklch(0.89 0.012 240)",
+    "surfaceTertiary": "oklch(0.84 0.012 240)",
+    "scrollbarThumb": "oklch(0.84 0.012 240)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.58 0.11 245)"
+  }
+}

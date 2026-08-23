@@ -1,0 +1,31 @@
+{
+  "id": "blade-360",
+  "name": "Blade 360",
+  "author": "AxxistSteam",
+  "description": "The blade-dashboard era: slate surfaces, signature Xbox-green glow and Michroma's wide tech type.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Retro",
+    "Gaming"
+  ],
+  "featured": false,
+  "font": "michroma",
+  "fontLocked": true,
+  "pattern": "blades360",
+  "tokens": {
+    "background": "oklch(0.21 0.008 150)",
+    "fieldBackground": "oklch(0.24 0.008 150)",
+    "fieldBorder": "oklch(0.4 0.008 150)",
+    "surface": "oklch(0.28 0.008 150)",
+    "overlay": "oklch(0.28 0.008 150)",
+    "default": "oklch(0.33 0.008 150)",
+    "surfaceSecondary": "oklch(0.33 0.008 150)",
+    "separator": "oklch(0.31 0.008 150)",
+    "border": "oklch(0.36 0.008 150)",
+    "surfaceTertiary": "oklch(0.4 0.008 150)",
+    "scrollbarThumb": "oklch(0.4 0.008 150)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.78 0.17 131)"
+  }
+}

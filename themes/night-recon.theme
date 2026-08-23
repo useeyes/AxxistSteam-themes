@@ -1,0 +1,29 @@
+{
+  "id": "night-recon",
+  "name": "Night Recon",
+  "author": "AxxistSteam",
+  "description": "Near-black stealth camo lit by night-vision green - behind-enemy-lines energy.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Military",
+    "Gaming"
+  ],
+  "featured": false,
+  "pattern": "camo-night",
+  "tokens": {
+    "background": "oklch(0.21 0.012 280)",
+    "fieldBackground": "oklch(0.24 0.012 280)",
+    "fieldBorder": "oklch(0.4 0.012 280)",
+    "surface": "oklch(0.28 0.012 280)",
+    "overlay": "oklch(0.28 0.012 280)",
+    "default": "oklch(0.33 0.012 280)",
+    "surfaceSecondary": "oklch(0.33 0.012 280)",
+    "separator": "oklch(0.31 0.012 280)",
+    "border": "oklch(0.36 0.012 280)",
+    "surfaceTertiary": "oklch(0.4 0.012 280)",
+    "scrollbarThumb": "oklch(0.4 0.012 280)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.80 0.17 150)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "urban-ops",
+  "name": "Urban Ops",
+  "author": "AxxistSteam",
+  "description": "Grey-man urban camouflage that works day and night - ships a proper light mode.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Military",
+    "Axxist"
+  ],
+  "featured": false,
+  "pattern": "camo-urban",
+  "tokens": {
+    "background": "oklch(0.21 0.008 260)",
+    "fieldBackground": "oklch(0.24 0.008 260)",
+    "fieldBorder": "oklch(0.4 0.008 260)",
+    "surface": "oklch(0.28 0.008 260)",
+    "overlay": "oklch(0.28 0.008 260)",
+    "default": "oklch(0.33 0.008 260)",
+    "surfaceSecondary": "oklch(0.33 0.008 260)",
+    "separator": "oklch(0.31 0.008 260)",
+    "border": "oklch(0.36 0.008 260)",
+    "surfaceTertiary": "oklch(0.4 0.008 260)",
+    "scrollbarThumb": "oklch(0.4 0.008 260)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.70 0.09 260)"
+  },
+  "tokensLight": {
+    "background": "oklch(0.96 0.006 260)",
+    "fieldBackground": "oklch(1 0 0)",
+    "fieldBorder": "oklch(0.84 0.006 260)",
+    "surface": "oklch(1 0 0)",
+    "overlay": "oklch(1 0 0)",
+    "default": "oklch(0.94 0.006 260)",
+    "surfaceSecondary": "oklch(0.94 0.006 260)",
+    "separator": "oklch(0.91 0.006 260)",
+    "border": "oklch(0.89 0.006 260)",
+    "surfaceTertiary": "oklch(0.84 0.006 260)",
+    "scrollbarThumb": "oklch(0.84 0.006 260)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.55 0.10 260)"
+  }
+}

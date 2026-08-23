@@ -1,0 +1,29 @@
+{
+  "id": "deep-space",
+  "name": "Deep Space",
+  "author": "AxxistSteam",
+  "description": "Void-navy canvas scattered with stars, aurora-teal instrumentation.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Axxist",
+    "Gaming"
+  ],
+  "featured": false,
+  "pattern": "stars",
+  "tokens": {
+    "background": "oklch(0.21 0.02 270)",
+    "fieldBackground": "oklch(0.24 0.02 270)",
+    "fieldBorder": "oklch(0.4 0.02 270)",
+    "surface": "oklch(0.28 0.02 270)",
+    "overlay": "oklch(0.28 0.02 270)",
+    "default": "oklch(0.33 0.02 270)",
+    "surfaceSecondary": "oklch(0.33 0.02 270)",
+    "separator": "oklch(0.31 0.02 270)",
+    "border": "oklch(0.36 0.02 270)",
+    "surfaceTertiary": "oklch(0.4 0.02 270)",
+    "scrollbarThumb": "oklch(0.4 0.02 270)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.77 0.13 195)"
+  }
+}

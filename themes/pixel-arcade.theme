@@ -1,0 +1,31 @@
+{
+  "id": "pixel-arcade",
+  "name": "Pixel Arcade",
+  "author": "AxxistSteam",
+  "description": "Coin-op cabinet purple with hot magenta neon and Press Start 2P bitmap type.",
+  "version": 1,
+  "colorScheme": "dark",
+  "tags": [
+    "Retro",
+    "Gaming",
+    "Animated"
+  ],
+  "featured": false,
+  "font": "pressStart2p",
+  "fontLocked": true,
+  "tokens": {
+    "background": "oklch(0.21 0.05 305)",
+    "fieldBackground": "oklch(0.24 0.05 305)",
+    "fieldBorder": "oklch(0.4 0.05 305)",
+    "surface": "oklch(0.28 0.05 305)",
+    "overlay": "oklch(0.28 0.05 305)",
+    "default": "oklch(0.33 0.05 305)",
+    "surfaceSecondary": "oklch(0.33 0.05 305)",
+    "separator": "oklch(0.31 0.05 305)",
+    "border": "oklch(0.36 0.05 305)",
+    "surfaceTertiary": "oklch(0.4 0.05 305)",
+    "scrollbarThumb": "oklch(0.4 0.05 305)",
+    "scrollbarTrack": "transparent",
+    "accent": "oklch(0.70 0.21 340)"
+  }
+}
